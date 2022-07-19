@@ -1,12 +1,12 @@
 
-I am a professional web developer with over 8 years of hands-on experience in enterprise web application development with PHP. I am dedicated and a quick learner with great relational abilities. I have done many projects of my clients and they are satisfied with my work. My expertise is mostly:  
+I am a professional web developer with over 8 years of hands-on experience in enterprise web application development with Ruby on Rails. I am dedicated and a quick learner with great relational abilities. I have done many projects of my clients and they are satisfied with my work. My expertise is mostly:  
   
+- Ruby on Rails  
 - Laravel  
 - PHP  
 - React  
 - Angular  
 - Vue JS  
-- Ruby on Rails  
 - Postgresql, MySql, Sqlite  
 - HTML5 / CSS3  
 - Javascript / Jquery  
